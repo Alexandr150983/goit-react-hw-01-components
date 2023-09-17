@@ -1,16 +1,13 @@
 .friend_list {
     width: 300px;
     background-color: #f5f5f5;
-    border: 1px solid #ccc;
-    border-radius: 8px;
     padding: 20px;
     margin: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+
 }
 
 .item {
@@ -43,16 +40,16 @@
 
 .online {
     display: inline-block;
-    width: 8px;
-    height: 8px;
+    width: 15px;
+    height: 15px;
     border-radius: 50%;
     background-color: green;
 }
 
 .offline {
     display: inline-block;
-    width: 8px;
-    height: 8px;
+    width: 15px;
+    height: 15px;
     border-radius: 50%;
     background-color: red;
 }

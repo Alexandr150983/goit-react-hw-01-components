@@ -32,7 +32,7 @@
     margin: 0;
 }
 
-/* Додайте стилі для online та offline статусів */
+
 .status {
     width: 10px;
     height: 10px;
@@ -56,5 +56,3 @@
     border-radius: 50%;
     background-color: red;
 }
-
-/* Додайте інші стилі, які вам потрібні для елементів FriendListItem */
